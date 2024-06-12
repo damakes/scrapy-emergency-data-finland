@@ -17,7 +17,7 @@ FEEDS = {
 }
 
 
-SCRAPEOPS_API_KEY = '2d5408c7-c4a0-4b2e-98f8-dadf9dd395dd'
+SCRAPEOPS_API_KEY = '******************************'
 SCRAPEOPS_FAKE_USER_AGENT_ENDPOINT = 'https://headers.scrapeops.io/v1/user-agents'
 SCRAPEOPS_FAKE_USER_AGENT_ENABLED = True
 SCRAPEOPS_NUM_RESULTS = 50
